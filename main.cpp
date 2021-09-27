@@ -140,7 +140,7 @@ int main() {
 	cout << "\n\tMarimea cozii finale:" << q.size() << endl;
 	cout << "\n\t---------------------------------------------";
 	cout << "\n\t----Problema Coada prin Clasa----";
-	//Coada prin clasa // cel mai bine era de facut un meniu ,dar cine sa-l faca la 22:30 xD 🙂
+	
 	Q.Push_Queue();
 	Q.Display();
 	Q.PoP_Queue();
